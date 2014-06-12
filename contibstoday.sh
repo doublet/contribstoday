@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import requests
 
 r = requests.get('https://github.com/users/doublet/contributions_calendar_data')
